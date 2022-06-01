@@ -9,9 +9,9 @@ Technologies I have worked with:<br><br>
 
 
 
-- 🔭 I’m currently working on my [portfolio](www.claudia-pacheco.com).
+- 🔭 I’m currently working on my [portfolio](https://www.claudia-pacheco.com).
 - 👩🏻‍💻 I’m currently learning TypeScript.
-- 📩 How to reach me: [LinkedIn](www.linkedin.com/in/claudia-pacheco1)
+- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/claudia-pacheco1)
 <!--
 **claudia-pacheco/claudia-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
