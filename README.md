@@ -9,7 +9,7 @@ Technologies I have worked with:<br><br>
 
 
 
-- 🔭 I’m currently working on my [portfolio](https://www.claudia-pacheco.com).
+- 🔭 I’m currently working on my [portfolio](https://www.claudia-pacheco.com) to make it mobile-friendly.
 - 👩🏻‍💻 I’m currently learning TypeScript.
 - 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/claudia-pacheco1)
 <!--
