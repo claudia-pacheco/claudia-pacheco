@@ -1,7 +1,10 @@
-### Hi there 👾
-I'm a Junior Full Stack Developer with experience in Web Development using mainly JavaScript and React - MERN Stack. I have also worked with Python, Django, Material UI, PostgreSQL, HTML and CSS.
+![Junior Software engineer (1)](https://user-images.githubusercontent.com/94257616/233845457-07e750da-581d-478e-b3ae-b55e63064d3a.png)
 
-I studied Computer Science at University of Hertfordshire for a year which allowed me to have some basic knowledge within the field and later decided to join a Software Engineering Immersive course at General Assembly to further my studies.
+### Hi there! 👾
+
+As a Junior Software Engineer, I possess substantial expertise in web development, particularly with JavaScript and React, operating on MERN Stack. My proficiency also extends to other technologies such as Python, Django, NodeJs, Material UI, PostgreSQL, HTML, and CSS. After pursuing Computer Science at the University of Hertfordshire for a year, I pursued a Software Engineering Immersive course at General Assembly to broaden my knowledge base.
+
+Currently, I am seeking a dynamic and collaborative work environment where I can apply my education and skillset, as well as learn and develop alongside like-minded individuals.
 
 Technologies I have worked with:<br><br>
 <img width="376" alt="Screenshot_2022-06-01_at_10 06 45-removebg-preview" src="https://user-images.githubusercontent.com/94257616/171376339-28d147c7-13b2-40c6-bfb1-b039dae7d921.png">
