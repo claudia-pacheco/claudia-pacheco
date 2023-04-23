@@ -12,8 +12,7 @@ Technologies I have worked with:<br><br>
 
 
 
-- 🔭 I’m currently working on my [portfolio](https://www.claudia-pacheco.com) to make it mobile-friendly.
-- 👩🏻‍💻 I’m currently learning TypeScript.
+- 🔭 I’m currently working on a SQL + NodeJs project with a React frontend.
 - 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/claudia-pacheco1)
 <!--
 **claudia-pacheco/claudia-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
