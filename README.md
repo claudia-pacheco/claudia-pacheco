@@ -1,4 +1,4 @@
-![Junior Software engineer (1)](https://user-images.githubusercontent.com/94257616/233845457-07e750da-581d-478e-b3ae-b55e63064d3a.png)
+![Software engineer (2)](https://github.com/claudia-pacheco/claudia-pacheco/assets/94257616/1cd16ba5-f376-4b85-841a-fbdb3a18638a)
 
  <a href="https://www.claudia-pacheco.com/"> <img width="50" align="right" src="https://user-images.githubusercontent.com/94257616/233847518-8c1380ab-a0f9-4bf2-beb5-e978442d04f9.png"></img> </a> <a href="https://www.linkedin.com/in/claudia-pacheco1"> <img width="35" align="right" src="https://user-images.githubusercontent.com/94257616/233847105-4e3bcf46-c1de-491e-8031-25f18cfd0368.png"></img></a> 
 <br>
