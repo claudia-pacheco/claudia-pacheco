@@ -1,6 +1,7 @@
-![Software engineer (2)](https://github.com/claudia-pacheco/claudia-pacheco/assets/94257616/ea1ecc4c-fc51-4126-9896-0678ba5f6986)
+![Claudia-Banner](https://github.com/user-attachments/assets/32da03fb-ba3c-46f4-9692-e10a0f5734d9)
 
- <a href="https://www.claudia-pacheco.com/"> <img width="50" align="right" src="https://user-images.githubusercontent.com/94257616/233847518-8c1380ab-a0f9-4bf2-beb5-e978442d04f9.png"></img> </a> <a href="https://www.linkedin.com/in/claudia-pacheco1"> <img width="35" align="right" src="https://user-images.githubusercontent.com/94257616/233847105-4e3bcf46-c1de-491e-8031-25f18cfd0368.png"></img></a> 
+ <a href="https://www.claudia-pacheco.com/"> <img width="50" align="right" src="https://github.com/user-attachments/assets/5afc81a6-2c05-4826-8237-8abe74c1cb68"></img> </a> <a href="https://www.linkedin.com/in/claudia-pacheco1"> <img width="35" align="right" src="https://user-images.githubusercontent.com/94257616/233847105-4e3bcf46-c1de-491e-8031-25f18cfd0368.png"></img></a>
+
 <br>
 
 ### Hi there! 👾
