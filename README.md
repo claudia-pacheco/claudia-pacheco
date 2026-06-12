@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://www.claudia-pacheco.com/"><img width="46" src="https://github.com/user-attachments/assets/5afc81a6-2c05-4826-8237-8abe74c1cb68"></a>
+  <a href="https://www.claudia-pacheco.com/"><img width="38" alt="CP-transparent" src="https://github.com/user-attachments/assets/3a193fc4-4fe1-4c08-b1d4-da99fd56ad37"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/claudia-pacheco1"><img width="38" src="https://user-images.githubusercontent.com/94257616/233847105-4e3bcf46-c1de-491e-8031-25f18cfd0368.png"></a>
 </p>
