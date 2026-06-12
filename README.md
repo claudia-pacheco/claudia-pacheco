@@ -5,11 +5,11 @@
 </p>
 <br>
 
-### Claudia Pacheco &nbsp;·&nbsp; Full Stack Developer
+### Claudia Pacheco &nbsp;·&nbsp; Full Stack Developer 👾 🌸
 
-Full Stack Developer based in London, blending creativity with code to build beautiful, functional, and user-centered web applications. Currently working in the Financial Services industry, building and shipping web applications used by clients across the UK and US.
+I'm a Full Stack Developer based in London, blending creativity with code to build beautiful and functional web applications. I have experience working in the Financial Services industry, building web applications used by clients across the UK and US.  
 
-After a year of Computer Science at the University of Hertfordshire, I enrolled in the Software Engineering Immersive at General Assembly — and haven't stopped building since.
+After a year of Computer Science at the University of Hertfordshire, I enrolled in the Software Engineering Immersive Bootcamp at General Assembly — and haven't stopped building since.
 
 <br>
 
@@ -41,6 +41,6 @@ After a year of Computer Science at the University of Hertfordshire, I enrolled 
 
 <br>
 
-- 🔭 &nbsp; Currently working on a wealth management web & mobile application
+- 🔭 &nbsp; Currently working on creating my first AI Agent
 - 🌍 &nbsp; Portfolio — [claudia-pacheco.com](https://www.claudia-pacheco.com/)
 - 📩 &nbsp; [LinkedIn](https://www.linkedin.com/in/claudia-pacheco1) or drop me an email
