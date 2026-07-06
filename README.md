@@ -41,6 +41,6 @@ After a year of Computer Science at the University of Hertfordshire, I enrolled 
 
 <br>
 
-- 🔭 &nbsp; Currently working on creating my first AI Agent
+- 🔭 &nbsp; Currently working on a Budgeting Finance Dashboard
 - 🌍 &nbsp; Portfolio — [claudia-pacheco.com](https://www.claudia-pacheco.com/)
 - 📩 &nbsp; [LinkedIn](https://www.linkedin.com/in/claudia-pacheco1) or drop me an email
